@@ -4,6 +4,8 @@
 
 > **Catatan Assessor:** Karena tidak ada Candidate Code spesifik yang tercantum pada email undangan, saya menggunakan token **VEH-ALAM** pada pengerjaan tes ini.
 
+> **Catatan Tambahan:** Mohon maaf saya mengerjakan semampu saya hanya 1 case saja dikarenakan keterbatasan waktu (besok masih ada jadwal magang saya jam 7 pagi, sehingga pengerjaan difokuskan untuk menyelesaikan Case 1 sebaik mungkin).
+
 ---
 
 ## CASE 1
